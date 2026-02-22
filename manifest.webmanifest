@@ -1,0 +1,24 @@
+{
+  "name": "Toke Bakes Stock App",
+  "short_name": "Toke Bakes",
+  "description": "Offline bakery inventory, sales, and gross profit tracker for Toke Bakes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7f0",
+  "theme_color": "#e98a38",
+  "icons": [
+    {
+      "src": "./assets/logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "./logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}
